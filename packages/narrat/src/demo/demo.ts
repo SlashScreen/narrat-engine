@@ -1,3 +1,4 @@
+import { useInputs } from '@/lib';
 import { startApp } from '@/main';
 
 // This config is there to enable playing different demo games based on environment variables.
